@@ -49,6 +49,7 @@ _ensure correct include and lib are set inside visual studio and linker. ensure 
 g++ -o main.exe main.cpp appres.o -mwindows -static
 ```
 
+# Further Notice
 The code is supplied as is. I do not take any responsibilities for what you do with the code. I shared this code to spread information on how keyloggers work to ensure your own privacy. 
 
 Futhermore, C++ is an amazing lang to write these kinds of malwares in. It's low level allows for fast and simple tracing of basic windows features such as keystrokes. DONT DO THIS, it is stupid and you will break the law. Do not attempt to seek further information on how to code these kinds of programs. Instead, seek information on how you can stay protected.
