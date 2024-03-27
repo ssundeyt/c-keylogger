@@ -1,6 +1,6 @@
 # Keylogger in C++ (educational purpose)
 
-I created this project solely for an online competition I'm entering. I will not provide the entire code I'll run, but this code will still work. DONT RUN IT, DONT INSTALL IT ON SOMEONE ELSES MACHINE - Doing so _**will**_ incriminate you and you _**will**_ face fines and/or jail. Take proper precautions.
+DONT RUN IT, DONT INSTALL IT ON SOMEONE ELSES MACHINE - Doing so _**will**_ incriminate you and you _**will**_ face fines and/or jail. Take proper precautions.
 
 The logger does NOT send me (or anyone else) information about the keystrokes as the code is at the moment. Please review code before eventually compiling and running.
 
